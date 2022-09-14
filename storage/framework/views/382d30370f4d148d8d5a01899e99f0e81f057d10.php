@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/laravel/laravelcrud/resources/views/welcome.blade.php ENDPATH**/ ?>
